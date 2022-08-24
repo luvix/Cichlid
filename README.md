@@ -24,6 +24,7 @@ topsule.github.io
 ### .paper for Dropbox Paper
 
 ### .notion for Notion
+이건 가능하면 notion 계정 동기화를 하면 디렉토리 구조를 짠 하고 만드는 것도 좋을 것 같아
 
 ### .ipynb for Jupyter Notebook
 
