@@ -18,3 +18,14 @@ topsule.github.io
 
 열 때는 한 페이지만 열 수 있고, 다른 페이지를 열 때마다 다른 창에 몰려서 열린다.  
 창으로 열기는 결국 한 페이지만 창을 열기고, 다른 페이지는 일반 크롬 브라우저에서 열린다.
+
+## 사람들이 바로 필요한 서비스는 샘플로 직접 만들지 뭐. 예를 들어 .notion이라던가 .ipynb 이라던가.
+
+### .paper for Dropbox Paper
+
+### .notion for Notion
+
+### .ipynb for Jupyter Notebook
+
+### (미정) .docx, .pptx, .xlsx for officeless user
+Office 365를 구독하지 않았지만 그냥 MS 계정이 있어서 office 무료 버전을 사용할 수 있는 사람
