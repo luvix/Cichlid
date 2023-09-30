@@ -1,5 +1,5 @@
-# To*psu*le
-topsule.github.io
+# *App*itizer
+**특정 서비스 전용 브라우저 세팅 서비스**
 
 - Desktop/Laptop Add-on. It is for Windows, Mac, Linux, Android, iOS.
 - It is a program to open any link. file link, web link, absolute path file link, relative path file link, hard link, soft link, any link a computer can open.
