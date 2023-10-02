@@ -1,6 +1,9 @@
 # Cichlid
-**특정 서비스 전용 브라우저 세팅 서비스**  
+**웹 어플리케이션 맞춤 브라우저**  
 Custom Browser for Web Application Service
+
+웹 어플리케이션을 독립 및 설치된 프로그램처럼 작동하게 합니다.  
+확장자를 가진 링크 파일을 열면 자동으로 해당 앱에 맞춰진 시클리드를 실행합니다.
 
 - Desktop/Laptop Add-on. It is for Windows or Mac.
 - It is a program to open any link. file link, web link, absolute path file link, relative path file link, hard link, soft link, any link a computer can open.
