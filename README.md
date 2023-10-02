@@ -1,7 +1,8 @@
-# *App*itizer
-**특정 서비스 전용 브라우저 세팅 서비스**
+# Cichlid
+**특정 서비스 전용 브라우저 세팅 서비스**  
+Custom Browser for Web Application Service
 
-- Desktop/Laptop Add-on. It is for Windows, Mac, Linux, Android, iOS.
+- Desktop/Laptop Add-on. It is for Windows or Mac.
 - It is a program to open any link. file link, web link, absolute path file link, relative path file link, hard link, soft link, any link a computer can open.
 - It will base on Node library. But It should be light, so may be out-of-node.
 - It will support chromium extension.
