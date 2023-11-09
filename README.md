@@ -1,6 +1,6 @@
 # Cichlid
-**웹 어플리케이션 최적화 프로그램**  
-Custom Browser for Web Application Service
+**웹 앱 전용 인터넷 브라우저**  
+Internet Browser for Web Application
 
 웹 어플리케이션을 독립 및 설치된 프로그램처럼 작동하게 합니다.  
 확장자를 가진 링크 파일을 열면 자동으로 해당 앱에 맞춰진 시클리드를 실행합니다.
